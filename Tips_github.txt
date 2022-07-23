@@ -1,0 +1,8 @@
+Para poder leer una imagen desde codigo python se debe leer la version raw de la imagen
+Y para esto se debe:
+a) subir la foto
+b) abrirla en github y en el link añadir:
+?raw=True
+
+Con esto conseguimos el link de este tipo:
+https://raw.githubusercontent.com/paoromerot/mbdds_tareas/main/Vassily_Kandinsky_1913_Composition_7.jpg
